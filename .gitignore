@@ -1,1 +1,5 @@
 src/R/Plot
+.bsp
+.metals
+.scal-build
+.vscode
