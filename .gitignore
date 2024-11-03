@@ -3,3 +3,8 @@ src/R/Plot
 .metals
 .scal-build
 .vscode
+.DC_Store
+src/R/.DC_Store
+src/Python/.DC_Store
+src/Scala/.DC_Store
+src/.DC_Store
