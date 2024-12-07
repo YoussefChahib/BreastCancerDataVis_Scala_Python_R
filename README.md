@@ -21,7 +21,7 @@ This project utilizes a breast cancer dataset, which includes various features, 
 
 
 
-## 🎯 Project Objective
+## 🎯 Project Goal
 
 The primary goal of this project is to conduct an in-depth analysis of the breast cancer dataset using Python, R, and Scala, focusing on understanding the disease
 This multi-language approach allows for camparaison between technologies when it comes to data visualisation
